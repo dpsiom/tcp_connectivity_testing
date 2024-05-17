@@ -1,6 +1,5 @@
 [![Python Lint](https://github.com/greyinghair/template_python/actions/workflows/python-lint.yaml/badge.svg?branch=main)](https://github.com/greyinghair/template_python/actions/workflows/python-lint.yaml)
 
-```markdown
 # TCP Connectivity Tester
 
 This Python script allows you to test TCP connectivity to multiple destinations and ports simultaneously. It is useful for network diagnostics, troubleshooting, and validating connectivity from servers to specified endpoints.
@@ -222,5 +221,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-```
 ```
