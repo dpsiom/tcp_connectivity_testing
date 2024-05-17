@@ -1,0 +1,14 @@
+[
+    {"destination": ["example.com", "example2.com"], "port_range": {"start": 80, "end": 85}},
+    {"destination_range": {"start": "10.0.0.1", "end": "10.0.0.3"}, "port": 443},
+    {"destination": "www.pypi.org", "port": 443},
+    {"destination": "192.168.1.1", "port_range": {"start": 8000, "end": 8010}}
+]
+
+# Sample
+#[
+#    {"destination": ["example.com", "example2.com"], "port_range": {"start": 80, "end": 85}},
+#    {"destination_range": {"start": "10.0.0.1", "end": "10.0.0.3"}, "port": 443},
+#    {"destination": "www.pypi.org", "port": 443},
+#    {"destination": "192.168.1.1", "port_range": {"start": 8000, "end": 8010}}
+#]
