@@ -1,7 +1,5 @@
 [![Python Lint](https://github.com/greyinghair/template_python/actions/workflows/python-lint.yaml/badge.svg?branch=main)](https://github.com/greyinghair/template_python/actions/workflows/python-lint.yaml)
 
-Certainly! Below is the full documentation in Markdown format, suitable for a GitHub README.md file, explaining the purpose of the script, dependencies required, deployment instructions, and step-by-step usage.
-
 ```markdown
 # TCP Connectivity Tester
 
